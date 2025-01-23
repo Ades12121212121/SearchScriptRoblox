@@ -43,7 +43,7 @@ La interfaz está diseñada con colores morados, grises y blancos, ofreciendo un
 ### Instalación
 1. **Ejecución**:
    - Si usas el archivo `.exe`:
-     - Descarga el archivo `SSR.exe` desde la sección de [Releases](https://github.com/tu-usuario/SearchScriptRoblox/releases).
+     - Descarga el archivo `SSR.exe` desde la sección de [Releases]((https://github.com/Ades12121212121/SearchScriptRoblox/releases/tag/scripts)).
      - Ejecuta el archivo `SSR.exe`.
 
 ## Capturas de Pantalla
